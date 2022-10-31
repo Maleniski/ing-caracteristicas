@@ -1,3 +1,5 @@
-# Tareas de la clase "Ingeniería de Características"
+# Tareas de la clase de "Ingenierías de Características"
 
-Repositorio con tareas del curso de ingenieria de características de la maestría en ciencia de datos.
+**Alumno:** María Elena Martínez Manzanares
+
+**Descripción:** En este repositorio estan las tareas correspondientes al curso de Ingeniería de Características (2022-2) de la Maestría en Ciencia de Datos de la Universidad de Sonora. Impartido por el Doctor Julio Waissman Vilanova.
