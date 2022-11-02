@@ -8,4 +8,4 @@ Se localizaron cuatro fuentes de información que dan datos de diferente natural
 
 * La [CONAPO](https://datos.gob.mx/busca/dataset/indices-de-intensidad-migratoria-mexico-estados-unidos) presentan datos de intensidad migratoria a nivel estatal y federal. Es la tabla CONAPO.csv.
 
-* Finalmente, los datos provistos por la [SEGOB](http://portales.segob.gob.mx/es/PoliticaMigratoria/Bases_de_datos) presentan información de repatriados desde Estados Unidos a México. Es la tabla SEGOB.csv y SEGOB_V2.csv. La diferencia entre las tablas es que la tabla SEGOB.csv tiene los datos codificados y la tabla SEGOB_V2.csv incluye los datos decodificados.
+* Finalmente, los datos provistos por la [SEGOB](http://portales.segob.gob.mx/es/PoliticaMigratoria/Bases_de_datos) presentan información de repatriados desde Estados Unidos a México. Es la tabla SEGOB.csv y SEGOB_V2.csv contenidos en SEGOB.zip . La diferencia entre las tablas es que la tabla SEGOB.csv tiene los datos codificados y la tabla SEGOB_V2.csv incluye los datos decodificados.
