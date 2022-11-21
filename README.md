@@ -7,3 +7,4 @@
 Repositorios relacionados a este curso que tienen su espacio exclusivo:
 
 * [Repositorio matriculados_sonora_lic_2021](https://github.com/Maleniski/matriculados_sonora_lic_2021).
+* [Repositorio del proyecto final del curso](https://github.com/Maleniski/ing-caracteristicas-migrantes-sonora-arizona).
